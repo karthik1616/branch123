@@ -1,4 +1,11 @@
 git is a powerful tool
 git is a popular tool
+<<<<<<< HEAD
 popular game
 
+=======
+nasjsdgsjd
+sjdhjuhcdujgh
+git is okok
+git is a tool for using
+>>>>>>> ae5a68bea061da496e9d8ef117072a5eb0c00cdc
